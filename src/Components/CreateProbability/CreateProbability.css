@@ -1,0 +1,11 @@
+.createProbability{
+    width: 60%;
+    margin: auto;
+    margin-top: 20px;
+}
+.createProbability p{
+    display: inline;
+}
+.createProbability button{
+    float: right;
+}
